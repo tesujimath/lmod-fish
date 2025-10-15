@@ -4,12 +4,12 @@
 
 ## Installation
 
-Probably may be installed from this repo using [Fisher](https://github.com/jorgebucaran/fisher).
-Although it needs to be installed as a plugin called `module` so that function is autoloaded.
+May be installed from this repo using [Fisher](https://github.com/jorgebucaran/fisher).
+When installed as a plugin it needs to be called `module` rather than `lmod` so that function is autoloaded.
 
 ### Dependencies
 
-The heavy lifting is done by [bash-env-json](https://github.com/tesujimath/bash-env-json) which must be separately installed and added to the path.
+This uses [bash-env-fish](https://github.com/tesujimath/bash-env-fish) which must also be installed, and that in turn uses [bash-env-json](https://github.com/tesujimath/bash-env-json).
 
 ## Example Usage
 
