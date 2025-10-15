@@ -4,7 +4,8 @@
 
 ## Installation
 
-May be installed from this repo using [Fisher](https://github.com/jorgebucaran/fisher).
+Probably may be installed from this repo using [Fisher](https://github.com/jorgebucaran/fisher).
+Although it needs to be installed as a plugin called `module` so that function is autoloaded.
 
 ### Dependencies
 
